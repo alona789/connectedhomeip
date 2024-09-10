@@ -80,5 +80,3 @@ jobs:
           name: android-arm-chip-tool.tar.gz
           path: |
             ./out
-            examples/android/CHIPTool/app/libs/jniLibs/*
-            examples/android/CHIPTool/app/libs/*.jar
